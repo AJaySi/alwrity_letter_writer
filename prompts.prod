@@ -1,0 +1,109 @@
+## Business Letter Generation Request
+
+**Letter Type:** Proposal
+**Recipient Information:**
+    * **Name:** {recipient_name}
+    * **Company:** {recipient_company}
+    * **Address:** {recipient_address}
+**Sender Information:**
+    * **Name:** {sender_name} 
+    * **Address:** {sender_address}
+**Date:** {date}
+**Subject:** Proposal for {project_name or objective} (optional input field)
+
+**Letter Body/Content:** 
+
+{proposal_details} (optional text area for the user to provide a proposal outline or key points)
+
+**Additional Information:**
+
+* **Tone:** {tone} (e.g., Persuasive, Professional)
+* **Desired Outcome:** Secure a partnership or agreement for the proposed project or objective
+* **Key Points to Include:** 
+    * Clear description of the proposed project or service
+    * Explanation of how it benefits the recipient
+    * Outline of the scope of work, timeline, and deliverables
+    * Cost estimates or pricing information (if applicable) 
+    * Call to action for further discussion or next steps
+
+**Formatting Guidelines:** (as mentioned in the previous response)
+
+## Instructions for AI
+
+* Generate a persuasive and well-structured proposal letter that clearly outlines the value proposition and benefits for the recipient. 
+* Use a professional tone and ensure the letter is tailored to the recipient's needs and interests.
+* Include all essential elements of a proposal, such as project description, scope, timeline, deliverables, and cost.
+* Clearly state the desired outcome and call to action.
+
+
+## Business Letter Generation Request
+
+**Letter Type:** Complaint
+**Recipient Information:** 
+    * **Name:** {recipient_name}
+    * **Company:** {recipient_company}
+    * **Address:** {recipient_address}
+**Sender Information:**
+    * **Name:** {sender_name} 
+    * **Address:** {sender_address}
+**Date:** {date}
+**Subject:** Complaint Regarding {issue_description} (optional input field)
+
+**Letter Body/Content:** 
+
+{complaint_details} (optional text area for the user to describe the issue and previous attempts to resolve it)
+
+**Additional Information:**
+
+* **Tone:** Assertive but polite and professional
+* **Desired Outcome:** Resolution of the complaint (e.g., refund, replacement, repair, apology)
+* **Key Points to Include:**
+    * Clear description of the issue or problem
+    * Date of purchase or occurrence
+    * Any relevant documentation or evidence 
+    * Previous attempts to resolve the issue with the company (if any)
+    * Desired resolution or action 
+
+**Formatting Guidelines:** (as mentioned in the previous response)
+
+## Instructions for AI
+
+* Generate a formal complaint letter that clearly explains the issue and desired resolution.
+* Maintain a professional and respectful tone while still conveying the seriousness of the complaint.
+* Include all relevant details and evidence to support the complaint.
+* State the desired outcome clearly and directly.
+
+## Output Format (as mentioned in the previous response)
+
+
+
+
+## Business Letter Generation Request
+
+**Letter Type:** Thank You
+**Recipient Information:**
+    * **Name:** {recipient_name}
+    * **Company:** {recipient_company} (optional if the thank you is not business-related)
+    * **Address:** {recipient_address}
+**Sender Information:**
+    * **Name:** {sender_name} 
+    * **Address:** {sender_address}
+**Date:** {date}
+**Subject:** Thank You for {reason_for_thanks} (optional input field)
+
+**Letter Body/Content:** 
+
+{additional_details} (optional text area for the user to provide specific details or express additional sentiments) 
+
+**Additional Information:**
+
+* **Tone:** Appreciative, Sincere, Warm
+* **Desired Outcome:** Express gratitude and strengthen the relationship with the recipient
+* **Key Points to Include:**
+    * Clear expression of thanks and appreciation
+    * Specific reason for the thank you 
+    * Optional mention of how the recipient's actions or support had a positive impact 
+    * Well wishes for the future (optional) 
+
+**Formatting Guidelines:** (as mentioned in the previous response) 
+
