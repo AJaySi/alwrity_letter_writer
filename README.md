@@ -1,30 +1,38 @@
-AI Email Writer with Streamlit
+# Alwrity - AI Business Letter Writer (Beta)
 
-This project aims to create a user-friendly web application using Streamlit that assists users in composing effective emails for various purposes and scenarios. By leveraging the power of AI, the application provides a convenient and efficient way to overcome writer's block, generate ideas, and craft professional and personalized emails.
+![Alwrity Logo](https://link.to.your/logo.png)
 
-Note: Required Google Gemini API keys.
+## Introduction
 
-### Features
+Alwrity is an AI-powered business letter writing tool designed to assist users in generating professional business letters effortlessly. Whether you need to draft a proposal, express a complaint, convey gratitude, provide a reference, or submit a resignation, Alwrity can help you craft well-structured and articulate letters tailored to your specific needs.
 
-- Multiple Email Categories: Choose from Professional, Business, Personal, or Creative emails.
+## Features
 
-- Specific Email Types: Select from a variety of common email types within each category (e.g., Job Application, Meeting Request, Sales Pitch, Thank You Note).
+- **Letter Type Selection**: Choose from a variety of letter types including Proposal, Complaint, Thank You, Reference Letter, and Resignation Letter.
+- **Customizable Content**: Input key points to include in your letter, such as specific details or instructions.
+- **Automatic Generation**: Alwrity automatically generates a business letter based on your selected type and provided content.
+- **Error Handling**: Alwrity provides error messages if required details are missing and handles exceptions during the generation process.
 
-- Tailored Input Fields: Provide specific details relevant to the chosen email type.
+## Usage
 
-- AI-Powered Email Generation: Integrate your AI model to generate email content based on user inputs and selected email type.
+1. Select the type of letter you want to write.
+2. Input key points or instructions for the letter.
+3. Enter recipient's name.
+4. Click on the "Write Business Letter" button.
+5. Alwrity will generate a professional business letter based on your input.
 
-- Customizable Tone and Style: Specify the desired tone and style of the email (e.g., Formal, Informal, Persuasive).
+## Dependencies
 
-- Optional Keywords and Call to Action: Include specific keywords or phrases and a clear call to action in the generated email.
+- Streamlit
+- OpenAI's Generative AI API (Gemini)
 
-### Getting Started
-Clone the repository:
-git clone https://github.com/your-username/ai-email-writer.git
-Install dependencies:
-pip install streamlit
+## Installation
 
-### Install any additional libraries required for your AI model and email sending functionality
-Run the application:
-streamlit run app.py
-Access the application: Open your web browser and navigate to the URL provided by Streamlit (usually http://localhost:8501).
+1. Clone this repository.
+2. Install dependencies using `pip install -r requirements.txt`.
+3. Set up your Gemini API key in your environment variables.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
